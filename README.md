@@ -25,4 +25,4 @@ Construí este portfólio para testar meus conhecimentos iniciais e entender com
 Este projeto é simples, mas representa o início da minha dedicação em aprender programação.
 
 ---
-✨ *Criado por [Nicolas Kronemberger(kronemdev)]*
+✨ *Criado por Nicolas Kronemberger(kronemdev)*
