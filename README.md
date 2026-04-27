@@ -1,9 +1,5 @@
 # 🚀 MEU PRIMEIRO PROJETO: PORTFÓLIO TESTE
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
 ---
 
